@@ -1,5 +1,8 @@
 {
   "name": "mqtt-broker",
   "version": "0.0.1",
-  "main": "index.js"
+  "main": "index.js",
+  "dependecies": {
+    "mosca": "^2.2.0"
+  }
 }

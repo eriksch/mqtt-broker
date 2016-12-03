@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "main": "index.js",
   "scripts": {
-    "start": "node start.js"
+    "start": "node index.js"
   },
   "dependecies": {
     "mosca": "^2.2.0"
